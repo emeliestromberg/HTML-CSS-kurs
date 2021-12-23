@@ -1,0 +1,22 @@
+.error{
+    color: crimson;
+}
+
+div {
+    background-color: aquamarine;
+}
+
+body {
+    background-color: lightpink;
+}
+
+p {
+    color: darkgreen;
+}
+
+div p {
+
+    background-color: bisque;
+    color: brown;
+
+}
